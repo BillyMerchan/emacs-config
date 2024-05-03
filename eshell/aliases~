@@ -1,0 +1,2 @@
+# Changing "ls" to "eza"
+alias ls eza -a --group-directories-first

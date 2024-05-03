@@ -1,0 +1,3 @@
+# Changing "ls" to "eza"
+alias ls eza -a --group-directories-first		      # standard ls replacement
+alias lt eza -aT --color=always --group-directories-first $*  # tree listing
